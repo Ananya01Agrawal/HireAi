@@ -5,7 +5,7 @@
 Clone the project
 
 ```bash
-  git clone git@github.com:sallar-ba/IntelliResume.git
+ git@github.com:Ananya01Agrawal/HireAi.git
 ```
 
 Go to the project directory
